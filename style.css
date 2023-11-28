@@ -1,4 +1,7 @@
 p {
-  Font-Family: Times New Roman;
-  Color: blue;
+  font-family: "Times New Roman";
+  color: blue;
   }
+li {font-family: "Times New Roman";
+color: "dark blue";
+}
